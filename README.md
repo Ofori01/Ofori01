@@ -6,9 +6,9 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ...A Machine Learning Model to detect number plates on cars
-- 🌱 I’m currently learning ... React & pytorch
-- 👯 I’m looking to collaborate on ... Any React or Machine learning project
+- 🔭 I’m currently working on a fullstack Web app with Angular and Django backend 
+- 🌱 I’m currently learning ... python 
+- 👯 I’m looking to collaborate on ... Any Angular, Express js or fullstack project 
 - ⚡ Fun fact: ...it's all matrix multiplication 😉
 <!--
 - 🤔 I’m looking for help with ...
