@@ -74,10 +74,10 @@ I build practical software systems with a backend-first mindset: clean APIs, rel
 ## GitHub Signal
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ofori01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ofori01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=Ofori01&theme=tokyonight&hide_border=true" alt="GitHub streak" />
   <br />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ofori01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ofori01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 </div>
 
 ## Current Trajectory
