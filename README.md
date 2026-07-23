@@ -5,6 +5,7 @@
   <p>
     <a href="mailto:oforidarkwah7@gmail.com"><img src="https://img.shields.io/badge/Email-oforidarkwah7%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://github.com/Ofori01"><img src="https://img.shields.io/badge/GitHub-Ofori01-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://www.linkedin.com/in/ofori-amoah-darkwah-44355123b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <img src="https://komarev.com/ghpvc/?username=Ofori01&style=for-the-badge&color=00D8FF" alt="Profile views" />
   </p>
 
@@ -94,4 +95,5 @@ I am open to backend, full-stack, open-source, and product engineering collabora
 <p>
   <a href="mailto:oforidarkwah7@gmail.com"><img src="https://img.shields.io/badge/Start_a_conversation-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
   <a href="https://github.com/Ofori01?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
+  <a href="https://www.linkedin.com/in/ofori-amoah-darkwah-44355123b"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
